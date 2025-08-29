@@ -1,4 +1,14 @@
+scikit-learn
 pandas
 numpy
+ipykernel
+flask
+matplotlib
 seaborn
--e .
+openpyxl
+Flask
+plotly
+xgboost
+kneed
+catboost
+#-e .
